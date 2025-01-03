@@ -62,7 +62,7 @@ Submissions must be prepared according to the format of Lecture Notes in Busines
 * Workshop papers notification: July 3rd, 2025
 * Workshop date: September 1st, 2025
 
-# DLT4BPM Workshop Chairs
+# Workshop Chairs
 * Richard Hobeck, University of Berlin, Germany
 * Simon Curty, University of Fribourg, Switzerland
 * Andrea Morichetta, University of Camerino, Italy
